@@ -12,5 +12,10 @@ body {
 
 h1 {
   text-align: center;
-  background-color: khaki;
+  background-color: dodgerblue;
+  color: yellow;
+}
+
+section {
+  text-align: right
 }
